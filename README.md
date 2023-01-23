@@ -5,8 +5,8 @@ O projeto é simples, e utiliza o framework Eclipse.
 
 # Roteiro para execução
 
-Clonar o projeto e coloc-alo no workspaces de sua preferência.
-Baixar os arquivos .jar da pasta ArquivosAuxiliares e adicooná-los ao BuildPath.
+Clonar o projeto e coloca-lo no workspaces de sua preferência.
+Baixar os arquivos .jar da pasta ArquivosComplementares e adicooná-los ao BuildPath.
 Utilizar o gerenciador de banco de dados de sua preferência, baixar o arquivo CRUD e criar o banco de dados e tabelas do projeto
 
 
